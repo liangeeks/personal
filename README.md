@@ -12,46 +12,44 @@
 
 #### IT技能
 
-##### Java
-
 ```
-Java 基础掌握熟练.
-Java 高级编程部分掌握尚可.
+Java
+  Java 基础掌握熟练.
+  Java 高级编程部分掌握尚可.
 ```
-##### Groovy
 ```
-掌握熟练,在开发中运用自如。
-在之前的开发中都是用的Groovy。
+Groovy
+  掌握熟练,在开发中运用自如。
+  在之前的开发中都是用的Groovy。
 ```
-##### Java EE
 ```
-常用服务器框架有 Tomcat, Jetty。
-常用框架有Grails(基于spring，hibernate),较为熟练。
+Java EE
+  常用服务器框架有 Tomcat, Jetty。
+  常用框架有Grails(基于spring，hibernate),较为熟练。
 ```
-##### Python
 ```
-熟练编写Python代码
-熟练使用django
-熟悉Openerp
+Python
+  熟练编写Python代码
+  熟练使用django
+  熟悉Openerp
 ```
-##### 数据库
 ```
-就像大多数Web Developer 那样的.
+数据库
+  就像大多数Web Developer 那样的.
 ```
-
-##### Web 前端
 > (由于之间的项目使用前段MVC架构,已经写过大量的javascript代码)
 
 ```
-html/css Web工程师必备,已熟练
-Javascript 熟练
-CoffeeScript 熟练
-Jqeury 精通
-Backbone 精通
-BootStrap 熟练
+Web 前端
+  html/css Web工程师必备,已熟练
+  Javascript 熟练
+  CoffeeScript 熟练
+  Jqeury 精通
+  Backbone 精通
+  BootStrap 熟练
 ```
-##### Android
 ```
+Android
 简单了解,做过几个Demo。
 ```
 ##### 其他
